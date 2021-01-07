@@ -1,6 +1,6 @@
 # My Journey using Glew and then FreeGLUT on MacOS
 
-# TLDR
+**TLDR**
 
 I'd advise not to use Glew on Mac OSX unless you love X11 for some reason.
 
