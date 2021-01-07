@@ -2,7 +2,8 @@
 
 **TLDR**
 
-I'd advise not to use Glew on Mac OSX unless you love X11 for some reason.
+- Don't use Glew on macOS unless you can cope with old 1.2 version shaders.
+- Don't use FreeGlut on macOS unless you love X11 for some reason.
 
 # Background
 
